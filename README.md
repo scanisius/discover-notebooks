@@ -29,7 +29,7 @@ conda install -n discover-notebooks -c http://ccb.nki.nl/software/discover/repos
     ipyparallel
 ```
 	
-Next, activate the created environment and start the Jupyter notebook using the following two commands. Make sure `<notebook-dir>` is replaced by the location of the .ipynb files after unzipping the downloaded file.
+Next, activate the created environment and start the Jupyter notebook using the following two commands. Make sure `<notebook-dir>` is replaced by the location of the `.ipynb` files after unzipping the downloaded file.
 	
 ```bash
 source activate discover-notebooks
