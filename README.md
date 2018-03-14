@@ -45,48 +45,48 @@ activate discover-notebooks
 
 ## Simulated data analyses
 
-* [Pairwise analyses of simulated data](notebooks/Pairwise analyses of simulated data.ipynb)
+* [Pairwise analyses of simulated data](notebooks/Pairwise%20analyses%20of%20simulated%20data.ipynb)
 
   Compares the Binomial, Fisher's exact and DISCOVER tests on simulated data.
 
 
-* [Group test](notebooks/Group test.ipynb)
+* [Group test](notebooks/Group%20test.ipynb)
 
   Compares the DISCOVER group test to six alternative methods (CoMEt, MEGSA, MEMo, muex, mutex, and TiMEx) on simulated data.
 
 
 ## Pan-cancer analyses
 
-* [Download PanCan12 data](notebooks/Download PanCan12 data.ipynb)
+* [Download PanCan12 data](notebooks/Download%20PanCan12%20data.ipynb)
 
   Downloads the mutation and copy number data for the TCGA PANCAN12 studies.
 
 
-* [Gene selection](notebooks/Gene selection.ipynb)
+* [Gene selection](notebooks/Gene%20selection.ipynb)
 
   Selects the genes for use in the pairwise analyses.
 
 
-* [Pairwise analysis](notebooks/Pairwise analysis.ipynb)
+* [Pairwise analysis](notebooks/Pairwise%20analysis.ipynb)
 
   Performs pairwise co-occurrence and mutual exclusivity analyses.
 
 
-* [Within-chromosome co-occurrence analysis](notebooks/Within-chromosome co-occurrence analysis.ipynb)
+* [Within-chromosome co-occurrence analysis](notebooks/Within-chromosome%20co-occurrence%20analysis.ipynb)
 
   Tests for co-occurrences between genes located on the same chromosome, in order to assess whether the DISCOVER test will detect these 'positive controls'.
 
 
-* [STRING enrichment](notebooks/STRING enrichment.ipynb)
+* [STRING enrichment](notebooks/STRING%20enrichment.ipynb)
 
   Determines the overlap of mutually exclusive gene pairs with the STRING functional interaction network.
 
 
-* [MSigDb group tests](notebooks/MSigDb group tests.ipynb)
+* [MSigDb group tests](notebooks/MSigDb%20group%20tests.ipynb)
 
   Identifies significantly mutually exclusive gene sets based on predefined gene sets extracted from MSigDb.
 
 
-* [De novo gene set identification](notebooks/De novo gene set identification.ipynb)
+* [De novo gene set identification](notebooks/De%20novo%20gene%20set%20identification.ipynb)
 
   Detects de novo mutually exclusive gene sets based on correlation clustering of pairwise mutual exclusivities.
